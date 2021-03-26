@@ -1,0 +1,687 @@
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\WebAngularAPI.dll.config
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\WebAngularAPI.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\WebAngularAPI.pdb
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csc.exe
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csc.exe.config
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csc.rsp
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csi.exe
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csi.exe.config
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csi.rsp
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.AppContext.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Console.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\vbc.exe
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\vbc.exe.config
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\vbc.rsp
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Newtonsoft.Json.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Cors.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.Cors.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.Cors.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Newtonsoft.Json.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.csproj.CoreCompileInputs.cache
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.csproj.CopyComplete
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.pdb
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.dll.config
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\netstandard.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.AppContext.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Concurrent.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.NonGeneric.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Specialized.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Console.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Data.Common.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Contracts.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Debug.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Process.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Tools.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Tracing.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Drawing.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Dynamic.Runtime.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Globalization.Calendars.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Globalization.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Globalization.Extensions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.Compression.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.IsolatedStorage.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.Pipes.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.Expressions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.Parallel.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.Queryable.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Http.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.NameResolution.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.NetworkInformation.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Ping.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Requests.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Security.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Sockets.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.WebSockets.Client.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.WebSockets.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ObjectModel.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Reflection.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Reflection.Extensions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Reflection.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Resources.Reader.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Resources.ResourceManager.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Resources.Writer.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Extensions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Handles.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.InteropServices.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Numerics.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Claims.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Principal.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.SecureString.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Text.Encoding.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Text.RegularExpressions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Overlapped.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Thread.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.ThreadPool.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Timer.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ValueTuple.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.ReaderWriter.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XDocument.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XmlDocument.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XmlSerializer.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XPath.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Data.SqlClient.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Identity.Client.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Buffers.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Immutable.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.Annotations.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Memory.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Numerics.Vectors.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Identity.Client.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Buffers.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Immutable.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Memory.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Numerics.Vectors.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\crist\Dropbox\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.csprojAssemblyReference.cache
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\WebAngularAPI.dll.config
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\WebAngularAPI.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\WebAngularAPI.pdb
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csc.exe
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csc.exe.config
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csc.rsp
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csi.exe
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csi.exe.config
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\csi.rsp
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.AppContext.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Console.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.Compression.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Claims.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.ValueTuple.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\vbc.exe
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\vbc.exe.config
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\vbc.rsp
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\VBCSCompiler.exe
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Win32.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\netstandard.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.AppContext.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Concurrent.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.NonGeneric.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Specialized.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.TypeConverter.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Console.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Data.Common.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Contracts.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Debug.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Process.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.StackTrace.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Tools.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.TraceSource.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.Tracing.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Drawing.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Dynamic.Runtime.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Globalization.Calendars.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Globalization.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Globalization.Extensions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.Compression.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.Compression.ZipFile.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.FileSystem.Watcher.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.IsolatedStorage.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.MemoryMappedFiles.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.Pipes.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.Expressions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.Parallel.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Linq.Queryable.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Http.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.NameResolution.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.NetworkInformation.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Ping.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Requests.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Security.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Sockets.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.WebHeaderCollection.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.WebSockets.Client.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.WebSockets.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ObjectModel.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Reflection.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Reflection.Extensions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Reflection.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Resources.Reader.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Resources.ResourceManager.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Resources.Writer.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Extensions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Handles.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.InteropServices.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Numerics.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Formatters.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Json.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.Serialization.Xml.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Claims.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Algorithms.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Csp.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Encoding.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.Principal.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Security.SecureString.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Text.Encoding.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Text.Encoding.Extensions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Text.RegularExpressions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Overlapped.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.Parallel.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Thread.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.ThreadPool.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Timer.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ValueTuple.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.ReaderWriter.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XDocument.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XmlDocument.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XmlSerializer.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XPath.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Xml.XPath.XDocument.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.HashCode.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Data.SqlClient.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Options.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Identity.Client.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Newtonsoft.Json.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Buffers.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Immutable.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.ComponentModel.Annotations.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Memory.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Http.Formatting.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Numerics.Vectors.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.Extensions.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Cors.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.Cors.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.WebHost.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Bcl.HashCode.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Data.SqlClient.pdb
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Options.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.Identity.Client.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Buffers.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Collections.Immutable.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Memory.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Net.Http.Formatting.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Numerics.Vectors.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Threading.Tasks.Extensions.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.Cors.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Newtonsoft.Json.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\System.Web.Http.WebHost.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.csprojAssemblyReference.cache
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.dll.config
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.csproj.CoreCompileInputs.cache
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.csproj.CopyComplete
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.dll
+D:\Programing-Projects\Programacion\Curso Angular\WebAngularAPI\WebAngularAPI\obj\Debug\WebAngularAPI.pdb
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\WebAngularAPI.dll.config
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\WebAngularAPI.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\WebAngularAPI.pdb
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\csc.exe
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\csc.exe.config
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\csc.rsp
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\csi.exe
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\csi.exe.config
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\csi.rsp
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.AppContext.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Console.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.IO.Compression.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.Claims.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.ValueTuple.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\vbc.exe
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\vbc.exe.config
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\vbc.rsp
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\VBCSCompiler.exe
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Win32.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\netstandard.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.AppContext.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Collections.Concurrent.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Collections.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Collections.NonGeneric.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Collections.Specialized.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ComponentModel.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ComponentModel.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ComponentModel.TypeConverter.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Console.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Data.Common.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.Contracts.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.Debug.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.Process.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.StackTrace.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.Tools.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.TraceSource.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.Tracing.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Drawing.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Dynamic.Runtime.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Globalization.Calendars.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Globalization.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Globalization.Extensions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.Compression.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.Compression.ZipFile.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.FileSystem.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.FileSystem.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.FileSystem.Watcher.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.IsolatedStorage.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.MemoryMappedFiles.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.Pipes.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Linq.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Linq.Expressions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Linq.Parallel.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Linq.Queryable.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Http.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.NameResolution.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.NetworkInformation.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Ping.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Requests.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Security.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Sockets.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.WebHeaderCollection.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.WebSockets.Client.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.WebSockets.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ObjectModel.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Reflection.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Reflection.Extensions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Reflection.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Resources.Reader.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Resources.ResourceManager.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Resources.Writer.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Extensions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Handles.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.InteropServices.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Numerics.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Serialization.Formatters.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Serialization.Json.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Serialization.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.Serialization.Xml.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Claims.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Cryptography.Algorithms.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Cryptography.Csp.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Cryptography.Encoding.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Cryptography.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.Principal.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Security.SecureString.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Text.Encoding.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Text.Encoding.Extensions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Text.RegularExpressions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Overlapped.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Tasks.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Tasks.Parallel.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Thread.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.ThreadPool.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Timer.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ValueTuple.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Xml.ReaderWriter.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Xml.XDocument.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Xml.XmlDocument.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Xml.XmlSerializer.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Xml.XPath.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Xml.XPath.XDocument.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Bcl.HashCode.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Data.SqlClient.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Configuration.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Logging.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Options.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Identity.Client.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Newtonsoft.Json.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Buffers.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Collections.Immutable.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.ComponentModel.Annotations.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Memory.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Http.Formatting.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Numerics.Vectors.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Tasks.Extensions.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Cors.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Http.Cors.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Http.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Http.WebHost.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Bcl.HashCode.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Data.SqlClient.pdb
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Configuration.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Logging.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Options.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.Identity.Client.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Buffers.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Collections.Immutable.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Memory.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Net.Http.Formatting.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Numerics.Vectors.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Threading.Tasks.Extensions.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Http.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Http.Cors.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Newtonsoft.Json.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\System.Web.Http.WebHost.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\obj\Debug\WebAngularAPI.csprojAssemblyReference.cache
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\obj\Debug\WebAngularAPI.dll.config
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\obj\Debug\WebAngularAPI.csproj.CoreCompileInputs.cache
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\obj\Debug\WebAngularAPI.csproj.CopyComplete
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\obj\Debug\WebAngularAPI.dll
+D:\Programing-Projects\Test Selection process\Marble Head Hunter\Backend\WebAngularAPI\obj\Debug\WebAngularAPI.pdb
