@@ -113,7 +113,7 @@ namespace WebAngularAPI.Models
                     .HasColumnName("initialDate")                    
                     .IsUnicode(false);
                 entity.Property(e => e.endDate)
-                    .HasColumnName("endDate")
+                    .HasColumnName("endDate")                    
                     .IsUnicode(false);
                 entity.Property(e => e.State)
                     .HasColumnName("State")

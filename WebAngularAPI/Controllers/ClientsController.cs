@@ -22,11 +22,11 @@ namespace WebAngularAPI.Controllers
             return clients;       
         }    
 
-        public IHttpActionResult Getclient(string Cedula)
+        public IHttpActionResult Getclient(int id)
         {
             UsersContext db = new UsersContext();
             var clients = db.Client;
-            var client = clients.FirstOrDefault((c) => c.ID == Cedula);
+            var client = clients.FirstOrDefault((c) => c.ID == id.ToString());
             if (client == null)
             {
                 return NotFound();
@@ -35,10 +35,7 @@ namespace WebAngularAPI.Controllers
         }
 
         public IHttpActionResult PostClient(Client client)
-        {
-            //if (!ModelState.IsValid)
-            //    return BadRequest("Not a valid model");
-
+        {           
             using (UsersContext db = new UsersContext())
             {
                 db.Add(new Client()

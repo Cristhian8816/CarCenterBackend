@@ -12,7 +12,7 @@ using System.Web.Http.Cors;
 namespace WebAngularAPI.Controllers
 {    
     [EnableCors(origins: "http://localhost:4200", headers: "*", methods: "*")]
-    public class MaintenanceController : ApiController
+    public class MaintenancesController : ApiController
     {
         //Method GET for CLients Information
         public IEnumerable<Maintenance> GetAllMaintenances()
@@ -35,10 +35,7 @@ namespace WebAngularAPI.Controllers
         }
 
         public IHttpActionResult PostMaintenance(Maintenance maintenance)
-        {
-            if (!ModelState.IsValid)
-                return BadRequest("Not a valid model");
-
+        {        
             using (UsersContext db = new UsersContext())
             {
                 db.Add(new Maintenance()
