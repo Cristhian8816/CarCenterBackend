@@ -40,7 +40,7 @@ namespace WebAngularAPI.Models
 
                 entity.Property(e => e.Clients_key)
                     .HasColumnName("Clients_key")
-                    .ValueGeneratedNever();
+                    .ValueGeneratedOnAdd();
 
                 entity.Property(e => e.FullName)
                     .HasColumnName("FullName")
@@ -81,7 +81,7 @@ namespace WebAngularAPI.Models
 
                 entity.Property(e => e.Car_key)
                     .HasColumnName("Car_key")
-                    .ValueGeneratedNever();
+                    .ValueGeneratedOnAdd();
 
                 entity.Property(e => e.Clients_key)
                     .HasColumnName("Clients_key");
@@ -100,7 +100,7 @@ namespace WebAngularAPI.Models
 
                 entity.Property(e => e.Maintenance_key)
                     .HasColumnName("Maintenance_key")
-                    .ValueGeneratedNever();
+                    .ValueGeneratedOnAdd();
 
                 entity.Property(e => e.Clients_key)
                     .HasColumnName("Clients_key");

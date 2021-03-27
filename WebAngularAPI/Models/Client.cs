@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
 namespace WebAngularAPI.Models
 {
-    public class Client
+    public class Client 
     {
+        [Key]
         public int Clients_key { get; set; }
         public string FullName { get; set; }
         public string DocumentType { get; set; }        

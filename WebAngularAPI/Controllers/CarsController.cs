@@ -22,36 +22,33 @@ namespace WebAngularAPI.Controllers
             return cars;       
         }    
 
-        public IHttpActionResult GetProduct(int id)
+        public IHttpActionResult GetCar(int id)
         {
             UsersContext db = new UsersContext();
-            var products = db.Client;
-            var product = products.FirstOrDefault((p) => p.Clients_key == id);
-            if (product == null)
+            var cars = db.Car;
+            var car = cars.FirstOrDefault((c) => c.Clients_key == id);
+            if (car == null)
             {
                 return NotFound();
             }
-            return Ok(product);
+            return Ok(car);
         }
 
-        public IHttpActionResult PostProduct(Client product)
+        public IHttpActionResult PostCar(Car car)
         {
             if (!ModelState.IsValid)
                 return BadRequest("Not a valid model");
 
-            //using (UsersContext db = new UsersContext())
-            //{
-            //    db.Add(new Product()
-            //    {
-            //        id = product.id,
-            //        title = product.title,
-            //        price = product.price,
-            //        description = product.description,
-            //        image = product.image
-            //    });
+            using (UsersContext db = new UsersContext())
+            {
+                db.Add(new Car()
+                {
+                     Clients_key = car.Clients_key,
+                     Marca = car.Marca                 
+                });
 
-            //    db.SaveChanges();
-            //}
+                db.SaveChanges();
+            }
             return Ok();
         }
 

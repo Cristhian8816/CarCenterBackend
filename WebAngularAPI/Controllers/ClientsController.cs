@@ -22,36 +22,37 @@ namespace WebAngularAPI.Controllers
             return clients;       
         }    
 
-        public IHttpActionResult GetProduct(int id)
+        public IHttpActionResult Getclient(string Cedula)
         {
             UsersContext db = new UsersContext();
-            var products = db.Client;
-            var product = products.FirstOrDefault((p) => p.Clients_key == id);
-            if (product == null)
+            var clients = db.Client;
+            var client = clients.FirstOrDefault((c) => c.ID == Cedula);
+            if (client == null)
             {
                 return NotFound();
             }
-            return Ok(product);
+            return Ok(client);
         }
 
-        public IHttpActionResult PostProduct(Client product)
+        public IHttpActionResult PostClient(Client client)
         {
-            if (!ModelState.IsValid)
-                return BadRequest("Not a valid model");
+            //if (!ModelState.IsValid)
+            //    return BadRequest("Not a valid model");
 
-            //using (UsersContext db = new UsersContext())
-            //{
-            //    db.Add(new Product()
-            //    {
-            //        id = product.id,
-            //        title = product.title,
-            //        price = product.price,
-            //        description = product.description,
-            //        image = product.image
-            //    });
+            using (UsersContext db = new UsersContext())
+            {
+                db.Add(new Client()
+                {
+                    FullName = client.FullName,
+                    DocumentType = client.DocumentType,
+                    ID = client.ID,
+                    Cellphone = client.Cellphone,
+                    Address = client.Address,
+                    email = client.email                    
+                });
 
-            //    db.SaveChanges();
-            //}
+                db.SaveChanges();
+            }
             return Ok();
         }
 

@@ -22,36 +22,35 @@ namespace WebAngularAPI.Controllers
             return maintenances;       
         }    
 
-        public IHttpActionResult GetProduct(int id)
+        public IHttpActionResult GetMaintenance(int id)
         {
             UsersContext db = new UsersContext();
-            var products = db.Client;
-            var product = products.FirstOrDefault((p) => p.Clients_key == id);
-            if (product == null)
+            var maintenances = db.Maintenance;
+            var maintenance = maintenances.FirstOrDefault((m) => m.Clients_key == id);
+            if (maintenance == null)
             {
                 return NotFound();
             }
-            return Ok(product);
+            return Ok(maintenance);
         }
 
-        public IHttpActionResult PostProduct(Client product)
+        public IHttpActionResult PostMaintenance(Maintenance maintenance)
         {
             if (!ModelState.IsValid)
                 return BadRequest("Not a valid model");
 
-            //using (UsersContext db = new UsersContext())
-            //{
-            //    db.Add(new Product()
-            //    {
-            //        id = product.id,
-            //        title = product.title,
-            //        price = product.price,
-            //        description = product.description,
-            //        image = product.image
-            //    });
+            using (UsersContext db = new UsersContext())
+            {
+                db.Add(new Maintenance()
+                {
+                    Clients_key = maintenance.Clients_key,
+                    Description = maintenance.Description,
+                    initialDate = maintenance.initialDate,                   
+                    State = false,
+                });
 
-            //    db.SaveChanges();
-            //}
+                db.SaveChanges();
+            }
             return Ok();
         }
 
